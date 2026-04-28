@@ -1,27 +1,30 @@
 # Arda Efe Kocaoğlu
 
-Yazılım mühendisliği öğrencisiyim. C ve C++ dillerinde temel ve orta seviyede projeler geliştirmekteyim. Özellikle socket programlama ve nesne yönelimli programlama (OOP) konularına ilgi duyuyorum.
+Yazılım mühendisliği öğrencisiyim.
+C ve C++ dillerinde projeler geliştirerek kendimi geliştirmekteyim. 
+Özellikle nesne yönelimli programlama (OOP), socket programlama ve temel algoritmalar üzerine çalışmalar yapıyorum.
+
+---
 
 ## 💻 Teknik Beceriler
-- C
-- C++
-- Nesne Yönelimli Programlama (OOP)
-- Temel Veri Yapıları ve Algoritmalar
-- Socket Programlama (Client-Server)
+- C  
+- C++  
+- Nesne Yönelimli Programlama (OOP)  
+- Veri Yapıları ve Algoritmalar  
+- Socket Programlama  
 
-## 🚀 Projeler
-### Client-Server Socket Uygulaması
-Kullanıcıdan alınan iki sayı ve işlem bilgisi sunucuya gönderilir, işlem sonucu tekrar istemciye iletilir.
+---
 
-### OOP Sınıf Örnekleri
-Constructor, getter/setter ve kalıtım içeren sınıf yapıları oluşturulmuştur.
+## 🎯 Hedeflerim
+Yazılım geliştirme alanında kendimi sürekli geliştirerek, gerçek projelerde yer almak ve özellikle sistem programlama ve backend alanlarında deneyim kazanmak.
 
-### Algoritma Çalışmaları
-Dizi işlemleri, sıralama ve temel algoritma örnekleri.
+---
 
 ## 🔗 Bağlantılar
-- LinkedIn: https://www.linkedin.com/in/arda-efe-kocaoglu
-- GitHub: https://github.com/arda-kocaoglu
+- LinkedIn: https://www.linkedin.com/in/arda-efe-kocaoglu  
+- GitHub: https://github.com/arda-kocaoglu  
+
+---
 
 ## 📫 İletişim
-E-posta: ardaefe_kocaoglu@outlook.com
+E-posta: [ardaefe_kocaoglu@outlook.com](mailto:ardaefe_kocaoglu@outlook.com)
