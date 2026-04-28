@@ -1,0 +1,8 @@
+9786051857427|Simyaci|Paulo_Coelho|Roman|184
+9789750812989|Kurk_Mantolu_Madonna|Sabahattin_Ali|Roman|160
+9786053321452|Nutuk|Mustafa_Kemal_Ataturk|Tarih|600
+9789753638020|Suc_ve_Ceza|Fyodor_Dostoyevski|Klasik|670
+9789754700114|Sefiller|Victor_Hugo|Klasik|1232
+9786254490124|Hayvan_Ciftligi|George_Orwell|Distopya|152
+9789750738609|1984|George_Orwell|Distopya|352
+9789750719387|Tutunamayanlar|Oguz_Atay|Roman|724
