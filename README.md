@@ -8,10 +8,11 @@ C ve C++ dillerinde projeler geliştirerek kendimi geliştirmekteyim.
 
 ## 💻 Teknik Beceriler
 - C  
-- C++  
+- C++
+- Java
+- Pyhton
 - Nesne Yönelimli Programlama (OOP)  
-- Veri Yapıları ve Algoritmalar  
-- Socket Programlama  
+- Veri Yapıları ve Algoritmalar
 
 ---
 
